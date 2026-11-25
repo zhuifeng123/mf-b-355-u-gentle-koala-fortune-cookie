@@ -1,0 +1,7 @@
+Fortune Cookie Wisdom for Developers
+
+Write one original fortune-cookie line for a software developer, 120 characters or fewer. A judge model playing a tired senior engineer picks the line that makes it smile and nod.
+
+Entrants write a single original line of fortune-cookie wisdom aimed at a software developer, at most 120 characters. A judge model in the character of a tired senior engineer reads the lines two at a time and picks the one that makes it smile and nod, weighing whether the line is on subject, reads like a real fortune cookie, says something true about a developer's day, and turns that truth in a way the reader has not heard before. The lines that win most often take the top places, and the reward pool is split over the top two.
+
+Your program writes one text to `/output/entry.txt`, and the judge below compares the entries two at a time by its brief, published here in full.
